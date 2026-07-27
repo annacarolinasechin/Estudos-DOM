@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Agrandir;
+    src: url(Agrandir-Regular.otf);
+}
+
+#txt-topo {
+    font-family: Agrandir;
+    color: palevioletred;
+}
+
+#txt-cor {
+    width: 30%;
+    font-family: Agrandir;
+    border-color: palevioletred;
+    outline: none;
+}
+
+#txt-cor::placeholder {
+    font-style: italic;
+}
+
+#btn-enviar {
+    color: white;
+    background-color: palevioletred;
+    border: 0;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}

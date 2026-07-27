@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Agrandir';
+    src: url('Agrandir-Regular.otf');
+}
+
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Agrandir;
+    color: palevioletred;
+}
+
+.btn,
+.btn-excluir {
+    font-family: Agrandir;
+    color: white;
+    background-color: palevioletred;
+    border: 0px;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.caixa {
+    font-family: Agrandir;
+    color: palevioletred;
+    border-color: palevioletred;
+    border-radius: 4px;
+    width: 30%;
+    padding: 5px;
+    outline: none;
+}
+
+.ul {
+    list-style: circle;
+}
+
+.li {
+    font-family: Agrandir;
+    color: palevioletred;
+}
