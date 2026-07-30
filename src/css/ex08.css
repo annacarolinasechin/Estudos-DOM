@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Agrandir;
-    src: url(Agrandir-Regular.otf);
+    font-family: 'Agrandir';
+    src: url('Agrandir-Regular.otf');
 }
 
 body {
@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-    font-family: Agrandir;
+    font-family: 'Agrandir';
     color: brown;
 }
 
 #input-nome {
-    font-family: Agrandir;
+    font-family: 'Agrandir';
     width: 50%;
 }
 

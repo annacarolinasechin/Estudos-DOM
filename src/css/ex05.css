@@ -1,6 +1,6 @@
 @font-face {
     font-family: Agrandir;
-    src: url(Agrandir-Regular.otf);
+    src: url('Agrandir-Regular.otf');
 }
 
 #txt-topo {
