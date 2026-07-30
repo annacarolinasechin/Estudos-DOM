@@ -1,0 +1,14 @@
+.title {
+    color: rgb(199, 6, 38);
+    background-color: rgb(255, 203, 108);
+}
+
+.botao {
+    background-color: brown;
+    color: antiquewhite;
+    padding: 15px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}

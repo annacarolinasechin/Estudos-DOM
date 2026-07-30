@@ -1,0 +1,12 @@
+h1 {
+    background-color: brown;
+    color: white;
+}
+
+.btn {
+    background-color: brown;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}

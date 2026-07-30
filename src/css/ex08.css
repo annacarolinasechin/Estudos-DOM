@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Agrandir;
+    src: url(Agrandir-Regular.otf);
+}
+
+body {
+    margin: 100px;
+}
+
+h1 {
+    font-family: Agrandir;
+    color: brown;
+}
+
+#input-nome {
+    font-family: Agrandir;
+    width: 50%;
+}
+
+#input-nome::placeholder {
+    font-style: italic;
+}
+
+#btn-salvar {
+    background-color: brown;
+    color: white;
+    border: 0;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 25px;
+    font-family: Agrandir;
+    cursor: pointer;
+}

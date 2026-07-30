@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 300px;
+}
+
+.dark body {
+    background-color: rgb(28, 27, 27);
+}
+
+.btn-enviar {
+    background-color: purple;
+    color: white;
+    border: 0;
+    padding: 5px;
+    border-radius: 3px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.btn-enviar-dark {
+    background-color: rgb(14, 14, 177);
+}
